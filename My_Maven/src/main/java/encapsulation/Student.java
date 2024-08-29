@@ -4,7 +4,8 @@ public class Student
 {
 private String name;//declared a string in private
 
-public String getName()//declared a inbuilt method getName() for getting the string.its a string so return type is string
+public String getName()//declared a inbuilt method getName() for getting the string.
+                       //its a string so return type is string
 {
 	return name;
 }

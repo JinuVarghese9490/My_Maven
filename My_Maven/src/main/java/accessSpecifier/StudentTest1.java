@@ -6,8 +6,8 @@ public class StudentTest1 extends Student
 
 	public static void main(String[] args) {
 		Student obj=new Student();
-		System.out.println(obj.s);
-		System.out.println(obj.a);
+		//System.out.println(obj.s);
+		//System.out.println(obj.a);
 		
 		
 

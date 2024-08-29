@@ -1,6 +1,6 @@
 package FinalVariable;
 
-public class VehicleClass extends Vehicle1 
+/*public class VehicleClass extends Vehicle1 
 {
 public void display()
 {
@@ -15,3 +15,4 @@ public void display()
 	}
 
 }
+*/

@@ -2,8 +2,8 @@ package inherittance;
 
 public class SingleParent {
 	
-	int a=9;
-	int b=7;
+	int a=90;
+	int b=70;
 	public void display()
 	{
 		int c=a+b;
